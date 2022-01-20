@@ -1,5 +1,5 @@
 Integrantes del grupo:
 
-Alexandra Sivira
-Nicolas Garcia
+Alexandra Sivira,
+Nicolas Garcia,
 Sebastian Giraldo
